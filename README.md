@@ -34,6 +34,7 @@ The markdown is used to update a README file, this file contains all the informa
 - **Check the Status of a local repository:** git status -s 
     > If an M in red appears aside of the document, that means it was modified
     > M in green means that a file added was modified
+    
     > NOTE: Only appears the files that were added **BEFORE** a commit
 - **Add individual files or globally:** git add nameFile
 - **Add comments to the commit:** git commit -m "Put comentary here"
