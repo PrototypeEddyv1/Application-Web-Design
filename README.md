@@ -11,4 +11,4 @@
 - Profesor's name: Erik Ezequiel Carrillo Moo
 
 ## Markdown utilities
-The markdown is used to update a README file, this file contains all the information about the repository, some comments about the project, the goals and to organize the ideas
+The markdown is used to update a README file, this file contains all the information about the repository, some comments about the project, the goals and to organize the ideas.
