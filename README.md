@@ -30,7 +30,7 @@ The markdown is used to update a README file, this file contains all the informa
 - You can use `Site using` `
 - And add links, use [] to make the text that's going to be clickeable and () to add the link, [MyPage](https://github.com/PrototypeEddyv1/Application-Web-Design#markdown-utilities)
 
-## Some Git (Bash) commands
+## Git (Bash) commands
 - **Check the Status of a local repository:** git status -s 
     > If an M in red appears aside of the document, that means it was modified
     > M in green means that a file added was modified
