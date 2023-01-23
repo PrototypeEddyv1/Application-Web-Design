@@ -26,7 +26,7 @@ The markdown is used to update a README file, this file contains all the informa
     - ~To put a line in bewtween text you use~ ~
     - ***Cursiva and bold you use*** ***
     - <sub>to use subs you write</sub> sub and /sub (both with <>)
-    - <sup>And Sup '<sup></sup>'</sup> sup and /sup (both with <>)
+    - <sup>And Sup</sup> sup and /sup (both with <>)
 - You can use `Site using` `
 - And add links, use [] to make the text that's going to be clickeable and () to add the link, [MyPage](https://github.com/PrototypeEddyv1/Application-Web-Design#markdown-utilities)
 
