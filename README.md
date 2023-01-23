@@ -12,3 +12,21 @@
 
 ## Markdown utilities
 The markdown is used to update a README file, this file contains all the information about the repository, some comments about the project, the goals and to organize the ideas.
+
+## Tagging options with Markdown
+- Use # To make a Header
+- Use ## to make a secondary Header
+- Use ### to make a side Header
+- Use - to make a list
+    - You can use numbers too (like 1., 2., 3.)
+- Use > To make a Quote
+- You can Also make text styles
+    - **Bold you use ****
+    - *Cursiva you use a single * or _*
+    - ~To put a line in bewtween text you use ~~
+    - ***Cursiva and bold you use three asterisks***
+    - <sub>to use subs you write '<sub></sub>'</sub>
+    - <sup>And Sup '<sup></sup>'</sup>
+- You can use `Site using` `
+- And add links, use [] to make the text that's going to be clickeable and () to add the link, [MyPage](https://github.com/PrototypeEddyv1/Application-Web-Design#markdown-utilities)
+
